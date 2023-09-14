@@ -1,1 +1,2 @@
-# University-System-with-C-
+# University-System-with-Cpp
+Comprehensive university management system using Object-Oriented Programming (OOP) principles. This project offers a seamless experience for both students and professors. As a student, the system provides access to essential information, including enrolled courses, annual tuition fees, faculty details, and other relevant data. For professors, the system displays salary information, lecture schedules, and other pertinent information. Additionally, the system features a calendar function that showcases upcoming events, activities, and vacation periods. This project demonstrates my proficiency in utilizing C++ and OOP to create a user-friendly and efficient university management system
